@@ -1,0 +1,15 @@
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\bin\Debug\net6.0\PizzaStoreOPG.exe
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\bin\Debug\net6.0\PizzaStoreOPG.deps.json
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\bin\Debug\net6.0\PizzaStoreOPG.runtimeconfig.json
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\bin\Debug\net6.0\PizzaStoreOPG.dll
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\bin\Debug\net6.0\PizzaStoreOPG.pdb
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\obj\Debug\net6.0\PizzaStoreOPG.csproj.AssemblyReference.cache
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\obj\Debug\net6.0\PizzaStoreOPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\obj\Debug\net6.0\PizzaStoreOPG.AssemblyInfoInputs.cache
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\obj\Debug\net6.0\PizzaStoreOPG.AssemblyInfo.cs
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\obj\Debug\net6.0\PizzaStoreOPG.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\obj\Debug\net6.0\PizzaStoreOPG.dll
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\obj\Debug\net6.0\refint\PizzaStoreOPG.dll
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\obj\Debug\net6.0\PizzaStoreOPG.pdb
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\obj\Debug\net6.0\PizzaStoreOPG.genruntimeconfig.cache
+C:\Users\kurba\Desktop\PizzaStoreOPG UML2\PizzaStoreOPG\PizzaStoreOPG\obj\Debug\net6.0\ref\PizzaStoreOPG.dll
